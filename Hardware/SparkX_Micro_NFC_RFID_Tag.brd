@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.0025" altunitdist="inch" altunit="inch"/>
@@ -2897,8 +2897,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="0" y="31.75"/>
 <vertex x="7.62" y="31.75"/>
-<vertex x="7.62" y="0"/>
-<vertex x="0" y="0"/>
+<vertex x="7.62" y="17.78"/>
+<vertex x="0" y="17.78"/>
 </polygon>
 <contactref element="C2" pad="2"/>
 <contactref element="U1" pad="4"/>
@@ -2936,12 +2936,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="6.477" y1="25.5524" x2="6.70034375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="6.70034375" y1="25.5524" x2="7.3152" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="7.3152" y1="24.93754375" x2="7.3152" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="5.969" y1="18.161" x2="7.3025" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="7.3025" y1="16.8275" x2="7.3025" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="1.651" y1="18.161" x2="2.0955" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="2.0955" y1="17.7165" x2="2.0955" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="5.969" y1="18.161" x2="5.5245" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="5.5245" y1="17.7165" x2="5.5245" y2="13.97" width="0.1524" layer="16"/>
 </signal>
 <signal name="EDAP">
 </signal>

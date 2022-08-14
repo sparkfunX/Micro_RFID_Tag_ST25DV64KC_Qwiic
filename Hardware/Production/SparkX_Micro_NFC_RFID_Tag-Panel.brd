@@ -4302,8 +4302,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="0" y="31.75"/>
 <vertex x="7.62" y="31.75"/>
-<vertex x="7.62" y="0"/>
-<vertex x="0" y="0"/>
+<vertex x="7.62" y="17.78"/>
+<vertex x="0" y="17.78"/>
 </polygon>
 <contactref element="C2" pad="2"/>
 <contactref element="U1" pad="4"/>
@@ -4341,12 +4341,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="6.477" y1="25.5524" x2="6.70034375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="6.70034375" y1="25.5524" x2="7.3152" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="7.3152" y1="24.93754375" x2="7.3152" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="5.969" y1="18.161" x2="7.3025" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="7.3025" y1="16.8275" x2="7.3025" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="1.651" y1="18.161" x2="2.0955" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="2.0955" y1="17.7165" x2="2.0955" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="5.969" y1="18.161" x2="5.5245" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="5.5245" y1="17.7165" x2="5.5245" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="5.334" y1="27.94" x2="6.35" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="5.31" y1="26.67" x2="5.334" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="6.35" y1="26.67" x2="5.31" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -4502,8 +4496,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="13.208" y="31.75"/>
 <vertex x="20.828" y="31.75"/>
-<vertex x="20.828" y="0"/>
-<vertex x="13.208" y="0"/>
+<vertex x="20.828" y="17.78"/>
+<vertex x="13.208" y="17.78"/>
 </polygon>
 <contactref element="C4" pad="2"/>
 <contactref element="U2" pad="4"/>
@@ -4541,12 +4535,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="19.685" y1="25.5524" x2="19.90834375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="19.90834375" y1="25.5524" x2="20.5232" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="20.5232" y1="24.93754375" x2="20.5232" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="19.177" y1="18.161" x2="20.5105" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="20.5105" y1="16.8275" x2="20.5105" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="14.859" y1="18.161" x2="15.3035" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="15.3035" y1="17.7165" x2="15.3035" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="19.177" y1="18.161" x2="18.7325" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="18.7325" y1="17.7165" x2="18.7325" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="18.542" y1="27.94" x2="19.558" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="18.518" y1="26.67" x2="18.542" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="19.558" y1="26.67" x2="18.518" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -4702,8 +4690,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="26.416" y="31.75"/>
 <vertex x="34.036" y="31.75"/>
-<vertex x="34.036" y="0"/>
-<vertex x="26.416" y="0"/>
+<vertex x="34.036" y="17.78"/>
+<vertex x="26.416" y="17.78"/>
 </polygon>
 <contactref element="C7" pad="2"/>
 <contactref element="U3" pad="4"/>
@@ -4741,12 +4729,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="32.893" y1="25.5524" x2="33.11634375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="33.11634375" y1="25.5524" x2="33.7312" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="33.7312" y1="24.93754375" x2="33.7312" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="32.385" y1="18.161" x2="33.7185" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="33.7185" y1="16.8275" x2="33.7185" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="28.067" y1="18.161" x2="28.5115" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="28.5115" y1="17.7165" x2="28.5115" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="32.385" y1="18.161" x2="31.9405" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="31.9405" y1="17.7165" x2="31.9405" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="31.75" y1="27.94" x2="32.766" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="31.726" y1="26.67" x2="31.75" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="32.766" y1="26.67" x2="31.726" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -4902,8 +4884,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="39.624" y="31.75"/>
 <vertex x="47.244" y="31.75"/>
-<vertex x="47.244" y="0"/>
-<vertex x="39.624" y="0"/>
+<vertex x="47.244" y="17.78"/>
+<vertex x="39.624" y="17.78"/>
 </polygon>
 <contactref element="C10" pad="2"/>
 <contactref element="U4" pad="4"/>
@@ -4941,12 +4923,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="46.101" y1="25.5524" x2="46.32434375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="46.32434375" y1="25.5524" x2="46.9392" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="46.9392" y1="24.93754375" x2="46.9392" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="45.593" y1="18.161" x2="46.9265" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="46.9265" y1="16.8275" x2="46.9265" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="41.275" y1="18.161" x2="41.7195" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="41.7195" y1="17.7165" x2="41.7195" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="45.593" y1="18.161" x2="45.1485" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="45.1485" y1="17.7165" x2="45.1485" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="44.958" y1="27.94" x2="45.974" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="44.934" y1="26.67" x2="44.958" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="45.974" y1="26.67" x2="44.934" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -5102,8 +5078,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="52.832" y="31.75"/>
 <vertex x="60.452" y="31.75"/>
-<vertex x="60.452" y="0"/>
-<vertex x="52.832" y="0"/>
+<vertex x="60.452" y="17.78"/>
+<vertex x="52.832" y="17.78"/>
 </polygon>
 <contactref element="C13" pad="2"/>
 <contactref element="U5" pad="4"/>
@@ -5141,12 +5117,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="59.309" y1="25.5524" x2="59.53234375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="59.53234375" y1="25.5524" x2="60.1472" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="60.1472" y1="24.93754375" x2="60.1472" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="58.801" y1="18.161" x2="60.1345" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="60.1345" y1="16.8275" x2="60.1345" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="54.483" y1="18.161" x2="54.9275" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="54.9275" y1="17.7165" x2="54.9275" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="58.801" y1="18.161" x2="58.3565" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="58.3565" y1="17.7165" x2="58.3565" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="58.166" y1="27.94" x2="59.182" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="58.142" y1="26.67" x2="58.166" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="59.182" y1="26.67" x2="58.142" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -5302,8 +5272,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="66.04" y="31.75"/>
 <vertex x="73.66" y="31.75"/>
-<vertex x="73.66" y="0"/>
-<vertex x="66.04" y="0"/>
+<vertex x="73.66" y="17.78"/>
+<vertex x="66.04" y="17.78"/>
 </polygon>
 <contactref element="C16" pad="2"/>
 <contactref element="U6" pad="4"/>
@@ -5341,12 +5311,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="72.517" y1="25.5524" x2="72.74034375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="72.74034375" y1="25.5524" x2="73.3552" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="73.3552" y1="24.93754375" x2="73.3552" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="72.009" y1="18.161" x2="73.3425" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="73.3425" y1="16.8275" x2="73.3425" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="67.691" y1="18.161" x2="68.1355" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="68.1355" y1="17.7165" x2="68.1355" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="72.009" y1="18.161" x2="71.5645" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="71.5645" y1="17.7165" x2="71.5645" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="71.374" y1="27.94" x2="72.39" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="71.35" y1="26.67" x2="71.374" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="72.39" y1="26.67" x2="71.35" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -5502,8 +5466,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="79.248" y="31.75"/>
 <vertex x="86.868" y="31.75"/>
-<vertex x="86.868" y="0"/>
-<vertex x="79.248" y="0"/>
+<vertex x="86.868" y="17.78"/>
+<vertex x="79.248" y="17.78"/>
 </polygon>
 <contactref element="C19" pad="2"/>
 <contactref element="U7" pad="4"/>
@@ -5541,12 +5505,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="85.725" y1="25.5524" x2="85.94834375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="85.94834375" y1="25.5524" x2="86.5632" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="86.5632" y1="24.93754375" x2="86.5632" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="85.217" y1="18.161" x2="86.5505" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="86.5505" y1="16.8275" x2="86.5505" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="80.899" y1="18.161" x2="81.3435" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="81.3435" y1="17.7165" x2="81.3435" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="85.217" y1="18.161" x2="84.7725" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="84.7725" y1="17.7165" x2="84.7725" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="84.582" y1="27.94" x2="85.598" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="84.558" y1="26.67" x2="84.582" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="85.598" y1="26.67" x2="84.558" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -5702,8 +5660,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="92.456" y="31.75"/>
 <vertex x="100.076" y="31.75"/>
-<vertex x="100.076" y="0"/>
-<vertex x="92.456" y="0"/>
+<vertex x="100.076" y="17.78"/>
+<vertex x="92.456" y="17.78"/>
 </polygon>
 <contactref element="C22" pad="2"/>
 <contactref element="U8" pad="4"/>
@@ -5741,12 +5699,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="98.933" y1="25.5524" x2="99.15634375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="99.15634375" y1="25.5524" x2="99.7712" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="99.7712" y1="24.93754375" x2="99.7712" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="98.425" y1="18.161" x2="99.7585" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="99.7585" y1="16.8275" x2="99.7585" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="94.107" y1="18.161" x2="94.5515" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="94.5515" y1="17.7165" x2="94.5515" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="98.425" y1="18.161" x2="97.9805" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="97.9805" y1="17.7165" x2="97.9805" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="97.79" y1="27.94" x2="98.806" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="97.766" y1="26.67" x2="97.79" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="98.806" y1="26.67" x2="97.766" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -5902,8 +5854,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="105.664" y="31.75"/>
 <vertex x="113.284" y="31.75"/>
-<vertex x="113.284" y="0"/>
-<vertex x="105.664" y="0"/>
+<vertex x="113.284" y="17.78"/>
+<vertex x="105.664" y="17.78"/>
 </polygon>
 <contactref element="C25" pad="2"/>
 <contactref element="U9" pad="4"/>
@@ -5941,12 +5893,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="112.141" y1="25.5524" x2="112.36434375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="112.36434375" y1="25.5524" x2="112.9792" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="112.9792" y1="24.93754375" x2="112.9792" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="111.633" y1="18.161" x2="112.9665" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="112.9665" y1="16.8275" x2="112.9665" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="107.315" y1="18.161" x2="107.7595" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="107.7595" y1="17.7165" x2="107.7595" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="111.633" y1="18.161" x2="111.1885" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="111.1885" y1="17.7165" x2="111.1885" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="110.998" y1="27.94" x2="112.014" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="110.974" y1="26.67" x2="110.998" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="112.014" y1="26.67" x2="110.974" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -6102,8 +6048,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="118.872" y="31.75"/>
 <vertex x="126.492" y="31.75"/>
-<vertex x="126.492" y="0"/>
-<vertex x="118.872" y="0"/>
+<vertex x="126.492" y="17.78"/>
+<vertex x="118.872" y="17.78"/>
 </polygon>
 <contactref element="C28" pad="2"/>
 <contactref element="U10" pad="4"/>
@@ -6141,12 +6087,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="125.349" y1="25.5524" x2="125.57234375" y2="25.5524" width="0.1524" layer="16"/>
 <wire x1="125.57234375" y1="25.5524" x2="126.1872" y2="24.93754375" width="0.1524" layer="16"/>
 <wire x1="126.1872" y1="24.93754375" x2="126.1872" y2="21.9202" width="0.1524" layer="16"/>
-<wire x1="124.841" y1="18.161" x2="126.1745" y2="16.8275" width="0.1524" layer="16"/>
-<wire x1="126.1745" y1="16.8275" x2="126.1745" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="120.523" y1="18.161" x2="120.9675" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="120.9675" y1="17.7165" x2="120.9675" y2="13.97" width="0.1524" layer="16"/>
-<wire x1="124.841" y1="18.161" x2="124.3965" y2="17.7165" width="0.1524" layer="16"/>
-<wire x1="124.3965" y1="17.7165" x2="124.3965" y2="13.97" width="0.1524" layer="16"/>
 <wire x1="124.206" y1="27.94" x2="125.222" y2="27.94" width="0" layer="19" extent="16-16"/>
 <wire x1="124.182" y1="26.67" x2="124.206" y2="27.94" width="0" layer="19" extent="1-1"/>
 <wire x1="125.222" y1="26.67" x2="124.182" y2="26.67" width="0" layer="19" extent="1-1"/>
@@ -6302,8 +6242,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="0" y="64.008"/>
 <vertex x="7.62" y="64.008"/>
-<vertex x="7.62" y="32.258"/>
-<vertex x="0" y="32.258"/>
+<vertex x="7.62" y="50.038"/>
+<vertex x="0" y="50.038"/>
 </polygon>
 <contactref element="C31" pad="2"/>
 <contactref element="U11" pad="4"/>
@@ -6341,12 +6281,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="6.477" y1="57.8104" x2="6.70034375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="6.70034375" y1="57.8104" x2="7.3152" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="7.3152" y1="57.19554375" x2="7.3152" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="5.969" y1="50.419" x2="7.3025" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="7.3025" y1="49.0855" x2="7.3025" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="1.651" y1="50.419" x2="2.0955" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="2.0955" y1="49.9745" x2="2.0955" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="5.969" y1="50.419" x2="5.5245" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="5.5245" y1="49.9745" x2="5.5245" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="6.35" y1="58.928" x2="5.31" y2="58.928" width="0" layer="19" extent="1-1"/>
 <wire x1="6.35" y1="60.198" x2="6.35" y2="58.928" width="0" layer="19" extent="16-16"/>
 <wire x1="5.334" y1="60.198" x2="6.35" y2="60.198" width="0" layer="19" extent="16-16"/>
@@ -6502,8 +6436,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="13.208" y="64.008"/>
 <vertex x="20.828" y="64.008"/>
-<vertex x="20.828" y="32.258"/>
-<vertex x="13.208" y="32.258"/>
+<vertex x="20.828" y="50.038"/>
+<vertex x="13.208" y="50.038"/>
 </polygon>
 <contactref element="C34" pad="2"/>
 <contactref element="U12" pad="4"/>
@@ -6541,12 +6475,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="19.685" y1="57.8104" x2="19.90834375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="19.90834375" y1="57.8104" x2="20.5232" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="20.5232" y1="57.19554375" x2="20.5232" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="19.177" y1="50.419" x2="20.5105" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="20.5105" y1="49.0855" x2="20.5105" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="14.859" y1="50.419" x2="15.3035" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="15.3035" y1="49.9745" x2="15.3035" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="19.177" y1="50.419" x2="18.7325" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="18.7325" y1="49.9745" x2="18.7325" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="19.558" y1="58.928" x2="18.518" y2="58.928" width="0" layer="19" extent="1-1"/>
 <wire x1="19.558" y1="60.198" x2="19.558" y2="58.928" width="0" layer="19" extent="16-16"/>
 <wire x1="18.542" y1="60.198" x2="19.558" y2="60.198" width="0" layer="19" extent="16-16"/>
@@ -6702,8 +6630,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="26.416" y="64.008"/>
 <vertex x="34.036" y="64.008"/>
-<vertex x="34.036" y="32.258"/>
-<vertex x="26.416" y="32.258"/>
+<vertex x="34.036" y="50.038"/>
+<vertex x="26.416" y="50.038"/>
 </polygon>
 <contactref element="C37" pad="2"/>
 <contactref element="U13" pad="4"/>
@@ -6741,12 +6669,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="32.893" y1="57.8104" x2="33.11634375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="33.11634375" y1="57.8104" x2="33.7312" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="33.7312" y1="57.19554375" x2="33.7312" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="32.385" y1="50.419" x2="33.7185" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="33.7185" y1="49.0855" x2="33.7185" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="28.067" y1="50.419" x2="28.5115" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="28.5115" y1="49.9745" x2="28.5115" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="32.385" y1="50.419" x2="31.9405" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="31.9405" y1="49.9745" x2="31.9405" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="32.766" y1="58.928" x2="31.726" y2="58.928" width="0" layer="19" extent="1-1"/>
 <wire x1="32.766" y1="60.198" x2="32.766" y2="58.928" width="0" layer="19" extent="16-16"/>
 <wire x1="31.75" y1="60.198" x2="32.766" y2="60.198" width="0" layer="19" extent="16-16"/>
@@ -6902,8 +6824,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="39.624" y="64.008"/>
 <vertex x="47.244" y="64.008"/>
-<vertex x="47.244" y="32.258"/>
-<vertex x="39.624" y="32.258"/>
+<vertex x="47.244" y="50.038"/>
+<vertex x="39.624" y="50.038"/>
 </polygon>
 <contactref element="C40" pad="2"/>
 <contactref element="U14" pad="4"/>
@@ -6941,12 +6863,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="46.101" y1="57.8104" x2="46.32434375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="46.32434375" y1="57.8104" x2="46.9392" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="46.9392" y1="57.19554375" x2="46.9392" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="45.593" y1="50.419" x2="46.9265" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="46.9265" y1="49.0855" x2="46.9265" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="41.275" y1="50.419" x2="41.7195" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="41.7195" y1="49.9745" x2="41.7195" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="45.593" y1="50.419" x2="45.1485" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="45.1485" y1="49.9745" x2="45.1485" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="44.958" y1="60.198" x2="45.974" y2="60.198" width="0" layer="19" extent="16-16"/>
 <wire x1="44.934" y1="58.928" x2="44.958" y2="60.198" width="0" layer="19" extent="1-1"/>
 <wire x1="45.974" y1="58.928" x2="44.934" y2="58.928" width="0" layer="19" extent="1-1"/>
@@ -7102,8 +7018,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="52.832" y="64.008"/>
 <vertex x="60.452" y="64.008"/>
-<vertex x="60.452" y="32.258"/>
-<vertex x="52.832" y="32.258"/>
+<vertex x="60.452" y="50.038"/>
+<vertex x="52.832" y="50.038"/>
 </polygon>
 <contactref element="C43" pad="2"/>
 <contactref element="U15" pad="4"/>
@@ -7141,12 +7057,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="59.309" y1="57.8104" x2="59.53234375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="59.53234375" y1="57.8104" x2="60.1472" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="60.1472" y1="57.19554375" x2="60.1472" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="58.801" y1="50.419" x2="60.1345" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="60.1345" y1="49.0855" x2="60.1345" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="54.483" y1="50.419" x2="54.9275" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="54.9275" y1="49.9745" x2="54.9275" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="58.801" y1="50.419" x2="58.3565" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="58.3565" y1="49.9745" x2="58.3565" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="58.166" y1="60.198" x2="59.182" y2="60.198" width="0" layer="19" extent="16-16"/>
 <wire x1="58.142" y1="58.928" x2="58.166" y2="60.198" width="0" layer="19" extent="1-1"/>
 <wire x1="59.182" y1="58.928" x2="58.142" y2="58.928" width="0" layer="19" extent="1-1"/>
@@ -7302,8 +7212,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="66.04" y="64.008"/>
 <vertex x="73.66" y="64.008"/>
-<vertex x="73.66" y="32.258"/>
-<vertex x="66.04" y="32.258"/>
+<vertex x="73.66" y="50.038"/>
+<vertex x="66.04" y="50.038"/>
 </polygon>
 <contactref element="C46" pad="2"/>
 <contactref element="U16" pad="4"/>
@@ -7341,12 +7251,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="72.517" y1="57.8104" x2="72.74034375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="72.74034375" y1="57.8104" x2="73.3552" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="73.3552" y1="57.19554375" x2="73.3552" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="72.009" y1="50.419" x2="73.3425" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="73.3425" y1="49.0855" x2="73.3425" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="67.691" y1="50.419" x2="68.1355" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="68.1355" y1="49.9745" x2="68.1355" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="72.009" y1="50.419" x2="71.5645" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="71.5645" y1="49.9745" x2="71.5645" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="72.39" y1="58.928" x2="71.35" y2="58.928" width="0" layer="19" extent="1-1"/>
 <wire x1="72.39" y1="60.198" x2="72.39" y2="58.928" width="0" layer="19" extent="16-16"/>
 <wire x1="71.374" y1="60.198" x2="72.39" y2="60.198" width="0" layer="19" extent="16-16"/>
@@ -7502,8 +7406,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="79.248" y="64.008"/>
 <vertex x="86.868" y="64.008"/>
-<vertex x="86.868" y="32.258"/>
-<vertex x="79.248" y="32.258"/>
+<vertex x="86.868" y="50.038"/>
+<vertex x="79.248" y="50.038"/>
 </polygon>
 <contactref element="C49" pad="2"/>
 <contactref element="U17" pad="4"/>
@@ -7541,12 +7445,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="85.725" y1="57.8104" x2="85.94834375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="85.94834375" y1="57.8104" x2="86.5632" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="86.5632" y1="57.19554375" x2="86.5632" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="85.217" y1="50.419" x2="86.5505" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="86.5505" y1="49.0855" x2="86.5505" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="80.899" y1="50.419" x2="81.3435" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="81.3435" y1="49.9745" x2="81.3435" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="85.217" y1="50.419" x2="84.7725" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="84.7725" y1="49.9745" x2="84.7725" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="85.598" y1="58.928" x2="84.558" y2="58.928" width="0" layer="19" extent="1-1"/>
 <wire x1="85.598" y1="60.198" x2="85.598" y2="58.928" width="0" layer="19" extent="16-16"/>
 <wire x1="84.582" y1="60.198" x2="85.598" y2="60.198" width="0" layer="19" extent="16-16"/>
@@ -7702,8 +7600,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="92.456" y="64.008"/>
 <vertex x="100.076" y="64.008"/>
-<vertex x="100.076" y="32.258"/>
-<vertex x="92.456" y="32.258"/>
+<vertex x="100.076" y="50.038"/>
+<vertex x="92.456" y="50.038"/>
 </polygon>
 <contactref element="C52" pad="2"/>
 <contactref element="U18" pad="4"/>
@@ -7741,12 +7639,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="98.933" y1="57.8104" x2="99.15634375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="99.15634375" y1="57.8104" x2="99.7712" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="99.7712" y1="57.19554375" x2="99.7712" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="98.425" y1="50.419" x2="99.7585" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="99.7585" y1="49.0855" x2="99.7585" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="94.107" y1="50.419" x2="94.5515" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="94.5515" y1="49.9745" x2="94.5515" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="98.425" y1="50.419" x2="97.9805" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="97.9805" y1="49.9745" x2="97.9805" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="98.806" y1="58.928" x2="97.766" y2="58.928" width="0" layer="19" extent="1-1"/>
 <wire x1="98.806" y1="60.198" x2="98.806" y2="58.928" width="0" layer="19" extent="16-16"/>
 <wire x1="97.79" y1="60.198" x2="98.806" y2="60.198" width="0" layer="19" extent="16-16"/>
@@ -7902,8 +7794,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="105.664" y="64.008"/>
 <vertex x="113.284" y="64.008"/>
-<vertex x="113.284" y="32.258"/>
-<vertex x="105.664" y="32.258"/>
+<vertex x="113.284" y="50.038"/>
+<vertex x="105.664" y="50.038"/>
 </polygon>
 <contactref element="C55" pad="2"/>
 <contactref element="U19" pad="4"/>
@@ -7941,12 +7833,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="112.141" y1="57.8104" x2="112.36434375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="112.36434375" y1="57.8104" x2="112.9792" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="112.9792" y1="57.19554375" x2="112.9792" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="111.633" y1="50.419" x2="112.9665" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="112.9665" y1="49.0855" x2="112.9665" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="107.315" y1="50.419" x2="107.7595" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="107.7595" y1="49.9745" x2="107.7595" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="111.633" y1="50.419" x2="111.1885" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="111.1885" y1="49.9745" x2="111.1885" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="110.998" y1="60.198" x2="112.014" y2="60.198" width="0" layer="19" extent="16-16"/>
 <wire x1="110.974" y1="58.928" x2="110.998" y2="60.198" width="0" layer="19" extent="1-1"/>
 <wire x1="112.014" y1="58.928" x2="110.974" y2="58.928" width="0" layer="19" extent="1-1"/>
@@ -8102,8 +7988,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <polygon width="0.2032" layer="16" isolate="0.1524" rank="2">
 <vertex x="118.872" y="64.008"/>
 <vertex x="126.492" y="64.008"/>
-<vertex x="126.492" y="32.258"/>
-<vertex x="118.872" y="32.258"/>
+<vertex x="126.492" y="50.038"/>
+<vertex x="118.872" y="50.038"/>
 </polygon>
 <contactref element="C58" pad="2"/>
 <contactref element="U20" pad="4"/>
@@ -8141,12 +8027,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="125.349" y1="57.8104" x2="125.57234375" y2="57.8104" width="0.1524" layer="16"/>
 <wire x1="125.57234375" y1="57.8104" x2="126.1872" y2="57.19554375" width="0.1524" layer="16"/>
 <wire x1="126.1872" y1="57.19554375" x2="126.1872" y2="54.1782" width="0.1524" layer="16"/>
-<wire x1="124.841" y1="50.419" x2="126.1745" y2="49.0855" width="0.1524" layer="16"/>
-<wire x1="126.1745" y1="49.0855" x2="126.1745" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="120.523" y1="50.419" x2="120.9675" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="120.9675" y1="49.9745" x2="120.9675" y2="46.228" width="0.1524" layer="16"/>
-<wire x1="124.841" y1="50.419" x2="124.3965" y2="49.9745" width="0.1524" layer="16"/>
-<wire x1="124.3965" y1="49.9745" x2="124.3965" y2="46.228" width="0.1524" layer="16"/>
 <wire x1="124.206" y1="60.198" x2="125.222" y2="60.198" width="0" layer="19" extent="16-16"/>
 <wire x1="124.182" y1="58.928" x2="124.206" y2="60.198" width="0" layer="19" extent="1-1"/>
 <wire x1="125.222" y1="58.928" x2="124.182" y2="58.928" width="0" layer="19" extent="1-1"/>
